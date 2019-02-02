@@ -47,7 +47,7 @@ titleChange.addEventListener('mouseup', e =>{
 
 //Tells console if mouse is moving
 mouseTrack.addEventListener('mousemove', e =>{
-    console.log(`The mouse is a movin'`);
+    console.log(`The mouse is moving!!'`);
 });
 
 body.addEventListener('click', e =>{
